@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 references/Farshid
+reports/Capstone_Final_Report_Word
 *.egg-info/
 .installed.cfg
 *.egg
